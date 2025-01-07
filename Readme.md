@@ -46,9 +46,8 @@ Comprehensive three-week curriculum to guide beginners to an intermediate level 
 
 **Recommended Resources:**
 - [Solana Development Courses](https://solana.com/developers/courses): Official Solana courses ranging from beginner to advanced levels.
-- [60 Days of Solana](https://www.rareskills.io/solana-tutorial): A comprehensive Solana course designed for engineers with a background in Ethereum or EVM development.
+- [Rust Programming Full Course | Learn ⚙️ in 2024](https://youtu.be/rQ_J9WH6CGk?si=u4NGRRQ9mF8ROffD/): A comprehensive Rust course.
 - [Solana Development - 101 Blockchains](https://101blockchains.com/course/solana-development/): A training course covering core concepts of Solana, including smart contract development and the Anchor framework.
-- [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/): A bootcamp that covers Solana development using Rust and JavaScript.
-- [Free Solana + Rust Development Online Course for Beginners](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners): A free course for beginners to learn Rust and Solana blockchain development.
-
+- [Solana Developer Bootcamp 2024](https://youtu.be/amAq-WHAFs8?si=rKtR-VIOcaqCO0Lg/): Learn Blockchain and Full Stack Web3 Development - Projects 1-9.
+- [Solana Developer Bootcamp 2024](https://youtu.be/HOdYZSe1uhE?si=vG8SG__3U4dvISyb): Learn Blockchain and Full Stack Web3 Development - Projects 10-13.
 This curriculum provides a structured pathway for beginners to gain a solid foundation in Solana blockchain development, progressing to an intermediate level within three weeks. 
